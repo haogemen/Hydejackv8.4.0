@@ -5,7 +5,7 @@
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
 url:                   https://www.haoge.men
-github_username:       好哥们
+github_username:       haogemen
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -20,7 +20,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 haogemen
+title:                 好哥们
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -51,18 +51,18 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Publications
-    url:               /publications/
-  - title:             Research
-    url:               /research/
-  - title:             About
-    url:               /about/
-  - title:             Blog
+  - title:             博客
     url:               /posts/
-  - title:             Media & Press
+  - title:             待改2
+    url:               /research/
+  - title:             关于
+    url:               /about/
+  - title:             待改
+    url:               /publications/
+  - title:             网站链接
     url:               /media_and_press/
-  - title:             FireflyBase.org
-    url:               http://www.fireflybase.org
+  - title:             黑版
+    url:               https://heiban.me/taolun/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -73,7 +73,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             ©2019. haoge.men
+copyright:             ©2019 haoge.men
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
