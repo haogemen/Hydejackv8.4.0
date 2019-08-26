@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://haogemen.github.io
+url:                   https://www.haoge.men
 github_username:       好哥们
 
 # IMPORTANT: Set The "base URL" of your site.
@@ -26,7 +26,6 @@ title:                 haogemen
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -44,7 +43,7 @@ logo:                  https://avatars3.githubusercontent.com/u/12517705?s=400&u
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Timothy Fallon
+  name:                haogemen
   email:               tfallon@ucsd.edu
   # Used by `jekyll-seo-tag`:
   twitter:             photocyte
@@ -74,7 +73,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Timothy R. Fallon © 2019. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+copyright:             ©2019. haoge.men
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
