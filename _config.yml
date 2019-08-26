@@ -293,7 +293,7 @@ plugins:
 
 # Used for Twitter cards
 twitter:
-   username:            photocyte
+   username:            haogemen
 
 # Used for Facebook open graph
 # facebook:
@@ -303,11 +303,11 @@ twitter:
 
 # Used on index and about sites
 social:
-   name:                Timothy Fallon
+   name:                haogemen
    links:
-     - https://twitter.com/photocyte
-     - https://github.com/photocyte
-     - https://www.fireflybase.org
+     - https://twitter.com/xxxxxx
+     - https://github.com/haogemen
+     - https://www.haoge.men
 
 
 # Other Plugins
