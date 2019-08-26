@@ -25,21 +25,21 @@ title:                 haogemen
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
+  "haogemen blog".
 
 # A shorter description for the sidebar.
 tagline:               >
-  biologist, biochemist, genomics enthusiast, natural products disciple, postdoc @ SIO/UCSD
+  **哥们不劫财，专劫淑女色**
 # A Jekyll theme with JavaScript powers.
 # Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
-keywords:              [biochemistry,natural products,bioinformatics]
+keywords:              [linux, opensource]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  https://avatars3.githubusercontent.com/u/12517705?s=400&u=b86c907899da6f1ef01c1898a8153cbc46f24c75&v=4
+logo:                  https://raw.githubusercontent.com/haogemen/haogemen.github.io/master/images/timg.gif
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
