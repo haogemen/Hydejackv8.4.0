@@ -5,25 +5,25 @@ author1:
   name:              haogemen
   email:             xxx@gmail.com
 
-  # Used at the bottom of each page and at the top of the `about` layout
-  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  # 用在每个页面的底部和`about`布局的顶部
+  # 启用Markdown，可以使用多个段落（由`|`启用）
   关于我们:             |
    我是 [haoge.men](http://www.haoge.men) 域名当家的。👀  *好哥们* (haoge.men) , 这是建立在Github上的公开型博客。 
   
  # 这张照片将在about部分使用
   picture:
-    path:            https://avatars3.githubusercontent.com/u/12517705?s=400&u=b86c907899da6f1ef01c1898a8153cbc46f24c75&v=4
+    path:            https://raw.githubusercontent.com/haogemen/haogemen.github.io/master/images/timg.gif
     # srcset 是可选的，但可用于为视网膜显示器提供更高分辨率的版本
     #srcset:
     #  1x:            https://placehold.it/128x128
     #  2x:            https://placehold.it/256x256
 
-  # Social media icons in sidebar
-  # Comment/uncommet to show/hide
-  # Rearrange to change the order in which they appear
+  # 侧边栏中的社交媒体图标icons
+  # Comment/uncommet to show/hide 评论/取消评论 以显示/隐藏
+  # 重新排列以更改它们出现的顺序
   social:
-    twitter:         photocyte
-    github:          photocyte
+    twitter:         haogemen
+    github:          haogemen
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
