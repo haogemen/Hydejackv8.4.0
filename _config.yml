@@ -44,7 +44,7 @@ logo:                  https://raw.githubusercontent.com/haogemen/haogemen.githu
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                haogemen
-  email:               tfallon@ucsd.edu
+  email:               xxx@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             photocyte
   picture:             /images/avatar.png
