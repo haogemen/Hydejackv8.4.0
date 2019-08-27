@@ -1,6 +1,6 @@
-# The primary author of this blog.
-# Must be the same as `author` in `_config.yml`.
-# Change `author1` to your shortname.
+# 这篇博客的主要作者。
+# 必须与 `_config.yml`中的'author'相同。
+ ＃将'author1'更改为您的短名称。
 author1:
   name:              haogemen
   email:             xxx@gmail.com
@@ -8,38 +8,12 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   关于我们:             |
-   我是 [haoge.men](http://scrippsscholars.haoge.edu/bsmoore)👀 [firefly luciferin](https://en.wikipedia.org/wiki/Firefly_luciferin). *Photinus pyralis* (Big Dipper firefly) genome project, leading to the first linkage group resolution genome of any firefly. I’m interested in comparative genomic approaches to decipher metabolic questions generally.
-
-
-   Key findings of my PhD research include:
-
-   * Sequencing and assembly of the *Photinus pyralis* (Big Dipper Firefly) genome, and its comparison to other bioluminescent beetles, leading to the finding that click-beetle and firefly luciferase evolved separately
-   * The discovery of sulfoluciferin and luciferin sulfotransferase, which we now understand are conserved in all fireflies (Lampyridae)
-
-   ### More information
-   * Curriculum vitae (CV): [Timothy_R_Fallon_CV_PW-is-Winter2019.pdf](/CVs/Timothy_R_Fallon_CV_PW-is-Winter2019.pdf) (CV password protected with **Winter2019** to prevent webcrawler email spam)
-   * [ORCID: 0000-0002-3048-7679](https://orcid.org/0000-0002-3048-7679)
-   * [Google Scholar publications and citations](https://scholar.google.com/citations?user=CEPlauQAAAAJ&hl=en)   
-
-   ### Miscellaneous endevours
-   * In 2017 We launched the datasite for the firefly genome project: <http://www.fireflybase.org>
-   * In 2016 Crowdfunded the project to sequence the *Photinus pyralis* genome on the Experiment.com Scientific crowdfunding platform: <https://experiment.com/projects/illuminating-the-firefly-genome>
-   * In 2014 I took the "How to Make Almost Anything" class at the MIT media lab. You can see my exploits here: <http://fab.cba.mit.edu/classes/863.14/people/tim_fallon/index.html>
-
-   ### Collaborators
-   - Moore Lab (SIO/UCSD) <http://scrippsscholars.ucsd.edu/bsmoore>
-   - Weng Lab (MIT): <http://wenglab.wi.mit.edu/>
-   - Lewis Lab (Tufts): <https://ase.tufts.edu/biology/faculty/lewis/>
-   - Sarah Lower (Bucknell University): <https://sesander.wordpress.com/>
-   - Bybee lab (BYU): <http://bybeelab.byu.edu/Home.aspx>
-   - Stanger-Hall lab (UGA): <http://research.franklin.uga.edu/stanger-hall/>
-   - Oba lab (Chubu University): <https://www3.chubu.ac.jp/faculty/oba_yuichi/english_page/>
-   - Fireflyers International: <https://fireflyersinternational.net/>  
+   我是 [haoge.men](http://www.haoge.men) 域名当家的。👀  *好哥们* (haoge.men) , 这是建立在Github上的公开型博客。 
   
- # This photo will be used in the about section
+ # 这张照片将在about部分使用
   picture:
     path:            https://avatars3.githubusercontent.com/u/12517705?s=400&u=b86c907899da6f1ef01c1898a8153cbc46f24c75&v=4
-    # srcset is optional, but can be used to provide higher res versions for retina displays
+    # srcset 是可选的，但可用于为视网膜显示器提供更高分辨率的版本
     #srcset:
     #  1x:            https://placehold.it/128x128
     #  2x:            https://placehold.it/256x256
