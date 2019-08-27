@@ -7,7 +7,7 @@ author1:
 
   # 用在每个页面的底部和`about`布局的顶部
   # 启用Markdown，可以使用多个段落（由`|`启用）
-  关于我们:             |
+  about:             |
    我是 [haoge.men](http://www.haoge.men) 域名当家的。👀  *好哥们* (haoge.men) , 这是建立在Github上的公开型博客。 
   
  # 这张照片将在about部分使用
