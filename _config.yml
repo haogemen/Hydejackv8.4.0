@@ -42,7 +42,7 @@ keywords:              [linux, opensource]
 logo:                  https://raw.githubusercontent.com/haogemen/haogemen.github.io/master/images/timg.gif
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author:
+author1:
   name:                haogemen
   email:               xxx@gmail.com
   # Used by `jekyll-seo-tag`:
