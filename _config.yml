@@ -41,12 +41,12 @@ keywords:              [linux, opensource]
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  https://raw.githubusercontent.com/haogemen/haogemen.github.io/master/images/timg.gif
 
-# This should be the same author as first entry in `_data/authors.yml`.
+# 这应该与`_data/authors.yml`中的第一个条目是同一作者.
 author1:
   name:                haogemen
   email:               xxx@gmail.com
   # Used by `jekyll-seo-tag`:
-  twitter:             photocyte
+  twitter:             haogemen
   picture:             /images/avatar.png
 
 # Add links to the sidebar.
